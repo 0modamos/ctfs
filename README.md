@@ -8,4 +8,4 @@ Resources and solutions to Capture The Flag challenges.
 
 ## Solutions
 
-- [HackerOne](./solutions/hackerone)
+- [HackerOne](./solutions/hackerone/)
